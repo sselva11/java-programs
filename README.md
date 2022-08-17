@@ -18,3 +18,19 @@ snapshots for program output
 ![image](https://user-images.githubusercontent.com/111349018/185043046-a37a661c-edff-4473-b4b9-3364764a0ad6.png)
 ![image](https://user-images.githubusercontent.com/111349018/185043064-5fc38a7c-0ea9-4a21-ad41-212343c12d00.png)
 ![image](https://user-images.githubusercontent.com/111349018/185043084-3a314954-5ff7-4dab-bdd4-8a76c692ba07.png)
+Understanding the problem without this keyword
+![image](https://user-images.githubusercontent.com/111349018/185044262-a96b2fd0-6781-4c7f-bbf9-57dc17203480.png)
+Solution of the above problem by this keyword
+![image](https://user-images.githubusercontent.com/111349018/185044828-b8e4bb08-20c2-41e4-8f27-cc833e6fe1a7.png)
+this() can be used to invoked current class constructor.
+![image](https://user-images.githubusercontent.com/111349018/185045347-3adedbee-2ae6-4b87-afd9-71adbbcdc9bc.png)
+Where to use this() constructor call?
+![image](https://user-images.githubusercontent.com/111349018/185045886-3faf3562-5972-45ae-8903-70f1eb45f1e1.png)
+The this keyword can be used to invoke current class method (implicitly).
+![image](https://user-images.githubusercontent.com/111349018/185046972-c6d92a2c-02d5-4037-baa8-60f8c14ad4e1.png)
+this keyword can be passed as an argument in the method.
+![image](https://user-images.githubusercontent.com/111349018/185047214-77b3cedb-444e-471e-b6b5-9d4748c5f16b.png)
+The this keyword can be passed as argument in the constructor call
+![image](https://user-images.githubusercontent.com/111349018/185049278-cec1318f-1684-4742-93d3-0369793575d7.png)
+Example of this keyword that you return as a statement from the method
+![image](https://user-images.githubusercontent.com/111349018/185049559-8375b13e-ba06-4c56-8d79-e1351699756d.png)
