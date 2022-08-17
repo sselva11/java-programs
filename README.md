@@ -34,3 +34,10 @@ The this keyword can be passed as argument in the constructor call
 ![image](https://user-images.githubusercontent.com/111349018/185049278-cec1318f-1684-4742-93d3-0369793575d7.png)
 Example of this keyword that you return as a statement from the method
 ![image](https://user-images.githubusercontent.com/111349018/185049559-8375b13e-ba06-4c56-8d79-e1351699756d.png)
+IS-A relationship
+![image](https://user-images.githubusercontent.com/111349018/185052764-872b8952-4734-414d-8f3e-e673bc65c17d.png)
+Why multiple inheritance is not supported in java?
+![image](https://user-images.githubusercontent.com/111349018/185054382-5f36c764-2b80-4fe2-960a-f57a97292045.png)
+Simple Example of Aggregation
+![image](https://user-images.githubusercontent.com/111349018/185054713-d5816316-1772-40bf-8f6a-e5d050fcd4f7.png)
+
