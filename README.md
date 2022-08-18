@@ -40,4 +40,28 @@ Why multiple inheritance is not supported in java?
 ![image](https://user-images.githubusercontent.com/111349018/185054382-5f36c764-2b80-4fe2-960a-f57a97292045.png)
 Simple Example of Aggregation
 ![image](https://user-images.githubusercontent.com/111349018/185054713-d5816316-1772-40bf-8f6a-e5d050fcd4f7.png)
-
+Understanding the problem without method overriding
+![image](https://user-images.githubusercontent.com/111349018/185304565-3b98080f-d868-422d-9e96-faa56bb19d90.png)
+Example of method overriding
+![image](https://user-images.githubusercontent.com/111349018/185304692-887fb537-4d52-4801-a172-0ddcfb4d761b.png)
+super is used to refer immediate parent class instance variable.
+Problem without super keyword
+![image](https://user-images.githubusercontent.com/111349018/185305566-b4396104-11d5-41a3-a87d-a0d442a931e5.png)
+Solution by super keyword
+![image](https://user-images.githubusercontent.com/111349018/185305786-7a20be35-cc34-4e86-b039-fac2a6957fc3.png)
+super is used to invoke parent class constructor
+![image](https://user-images.githubusercontent.com/111349018/185306146-748a039e-329e-42ed-bb21-397061eebad4.png)
+super can be used to invoke parent class method
+![image](https://user-images.githubusercontent.com/111349018/185306347-10462af8-5f9a-48c8-be59-fc8316114569.png)
+Java final variable
+![image](https://user-images.githubusercontent.com/111349018/185306566-5a32903b-b8dd-438d-b0d5-aaf70d8fb7a1.png)
+Java final method
+![image](https://user-images.githubusercontent.com/111349018/185306740-17f78e3d-3bfc-4908-a132-6404ccd5b966.png)
+Java final class
+![image](https://user-images.githubusercontent.com/111349018/185306886-6611a197-0667-4794-8d5b-8057f92d81d1.png)
+Is final method inherited?
+![image](https://user-images.githubusercontent.com/111349018/185307191-f2584856-65b1-45c8-b824-e1f3064333c5.png)
+Java Runtime Polymorphism
+![image](https://user-images.githubusercontent.com/111349018/185307593-a353873f-f9e4-45d6-995d-1fe00a17ba56.png)
+Java Runtime Polymorphism with Multilevel Inheritance
+![image](https://user-images.githubusercontent.com/111349018/185309103-749e09b7-368f-40cf-b57f-8c5830073681.png)
