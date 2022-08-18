@@ -65,3 +65,13 @@ Java Runtime Polymorphism
 ![image](https://user-images.githubusercontent.com/111349018/185307593-a353873f-f9e4-45d6-995d-1fe00a17ba56.png)
 Java Runtime Polymorphism with Multilevel Inheritance
 ![image](https://user-images.githubusercontent.com/111349018/185309103-749e09b7-368f-40cf-b57f-8c5830073681.png)
+static binding
+![image](https://user-images.githubusercontent.com/111349018/185310046-ef172726-cf3d-447e-be9c-d6de02ded363.png)
+dynamic binding
+![image](https://user-images.githubusercontent.com/111349018/185310263-ce88e165-ba2c-4dd3-bbc2-a83ce785e825.png)
+Simple example of java instanceof
+![image](https://user-images.githubusercontent.com/111349018/185310582-9db83c65-b4d0-4fc3-88c6-10690bddfa3c.png)
+Another example of java instanceof operator
+![image](https://user-images.githubusercontent.com/111349018/185310819-55c03e05-6ef4-4df8-8d39-97220e8462b4.png)
+
+
