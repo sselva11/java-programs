@@ -73,5 +73,29 @@ Simple example of java instanceof
 ![image](https://user-images.githubusercontent.com/111349018/185310582-9db83c65-b4d0-4fc3-88c6-10690bddfa3c.png)
 Another example of java instanceof operator
 ![image](https://user-images.githubusercontent.com/111349018/185310819-55c03e05-6ef4-4df8-8d39-97220e8462b4.png)
+Example of abstract class that has abstract method
+![image](https://user-images.githubusercontent.com/111349018/185545009-40b2db44-287d-41b9-bc63-6a9f5d392f88.png)
+Abstract class having constructor, data member, methods etc
+![image](https://user-images.githubusercontent.com/111349018/185545213-53fc49ae-1753-448b-a158-406b113fd7c5.png)
+Java interface
+![image](https://user-images.githubusercontent.com/111349018/185545685-f1f681da-43f6-4004-8023-1df121297d91.png)
+Multiple inheritance is not supported through class in java but it is possible by interface, why?
+![image](https://user-images.githubusercontent.com/111349018/185546202-fde58af0-01ff-4fbf-97b0-300478e725ec.png)
+abstract class and interface in Java
+![image](https://user-images.githubusercontent.com/111349018/185547001-d4605fa0-3af0-43d1-8907-ccd89b871586.png)
+private access modifier
+![image](https://user-images.githubusercontent.com/111349018/185547667-cd63e837-e1d3-4626-97a8-1d105d095c33.png)
+Object cloning
+![image](https://user-images.githubusercontent.com/111349018/185549042-98e37740-9785-4429-a8cd-0452863b5ced.png)
+single dimensional java array
+![image](https://user-images.githubusercontent.com/111349018/185549220-fa039977-9ee5-4eb1-b448-f1d54f49263a.png)
+Passing Array to method in java
+![image](https://user-images.githubusercontent.com/111349018/185549429-43e0001f-fecf-4e78-b008-9bc29a773b09.png)
+Multidimensional java array
+![image](https://user-images.githubusercontent.com/111349018/185549593-cabd3835-44fb-4963-9e7f-28c8ea405224.png)
+Copying a java array
+![image](https://user-images.githubusercontent.com/111349018/185549721-e3cfed94-ad89-43f5-9101-82d230779cdf.png)
+Addition of 2 matrices in java
+![image](https://user-images.githubusercontent.com/111349018/185549870-f7b83c6e-60f2-4fc5-9f66-89707bbd4d30.png)
 
 
